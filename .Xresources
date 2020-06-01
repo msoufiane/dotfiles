@@ -2,7 +2,7 @@
 ! Includes for easier (Instant) rice!
 ! -----------------------------------
 #include "/home/soufiaane/.xrdb/colors"
-#include "/home/soufiaane/.xrdb/rofi"
+!#include "/home/soufiaane/.xrdb/rofi"
 
 Xft.autohint: 0
 Xft.lcdfilter: lcddefault
@@ -10,5 +10,3 @@ Xft.hintstyle: hintslight
 Xft.hinting: 1
 Xft.rgba: rgb
 Xft.dpi: 96
-
-cursor.theme: mcmojave-cursors
